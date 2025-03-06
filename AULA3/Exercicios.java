@@ -35,10 +35,10 @@ public class Exercicios {
     }
 
     public static void main(String[] args) {
-        ordemCrescente(2, 1, 3);
-        pesoIdeal("masculino", 1.70);
-        calcularPoligono(3);
-        ladosTriangulo(5, 5, 0);
-        anguloTriangulo(90);
+        // ordemCrescente(2, 1, 3);
+        // pesoIdeal("masculino", 1.70);
+        // calcularPoligono(3);
+        // ladosTriangulo(5, 5, 0);
+        // anguloTriangulo(90);
     }
 }
