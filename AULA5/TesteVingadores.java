@@ -1,13 +1,15 @@
+import AULA6.Teste;
+
 public class TesteVingadores {
     public static void main(String[] args) {
-        Vingadores homemDeFerro = new Vingadores();
+        Teste homemDeFerro = new Teste();
         homemDeFerro.nome = "Homem de Ferro (Tony Stark)";
         homemDeFerro.idade = 50;
         homemDeFerro.armadura = "Mark II";
         homemDeFerro.peso = 150.0;
         homemDeFerro.altura = 1.80;
         
-        Vingadores hulk = new Vingadores();
+        Teste hulk = new Teste();
         hulk.armadura = "Shorts roxo";
         hulk.nome = "Hulk (Bruce Banner)";
         
