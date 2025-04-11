@@ -1,3 +1,4 @@
+package AULA12;
 class Ingresso {
     protected double valor;
 
