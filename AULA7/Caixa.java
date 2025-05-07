@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+import Conta.Conta;
+
 import java.util.Random;
 
 public class Caixa {
